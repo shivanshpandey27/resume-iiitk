@@ -1,0 +1,145 @@
+{
+    "basics": {
+        "name": "Shivansh Pandey",
+        "label": "Student",
+        "picture": "https://iiitkota.ac.in/static/media/gaurav.37dd1b4e.png",
+        "email": "2021kucp1035@iiitkota.ac.in",
+        "phone": "9026063266",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering.",
+        "location": {
+            "address": "lucknow",
+            "postalCode": "226010",
+            "city": "lucknow",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Github",
+                "username": "shivanshpandey27",
+                "url": "https://www.github.com/shivanshpandey27"
+            },
+            {
+                "network": "linkedin",
+                "username": "",
+                "url": ""
+            },
+            {
+                "network": "Instagram",
+                "username": "shivanshpandey2727",
+                "url": "https://instagram.com/shivanshpandey2727"
+            }
+        ]
+    },
+    "work": [
+        {
+            "company": "",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        },
+        {
+            "company": "",
+            "position": "Web Developer",
+            "website": "",
+            "startDate": "",
+            "endDate": "",
+            "summary": ""
+        }
+    ],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "startDate": "",
+            "endDate": "",
+            "gpa": "",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [
+        {
+            "title": "",
+            "awarder": "",
+            "date": ""
+        }
+    ],
+    "publications": [
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+
+        },
+        {
+            "title": "",
+            "details": "",
+            "link": ""
+        },
+       
+    ],
+    "skills": [
+        {
+            "name": "",
+            "level": "",
+            "keywords": [
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                "",
+                ""
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Singing",
+            "keywords": [
+                ""
+            ]
+        },
+        {
+            "name": "Playing",
+            "keywords": [
+                "Chess",
+                "Cricket"
+                "Football"
+            ]
+        }
+    ]
+}
